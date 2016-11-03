@@ -315,7 +315,7 @@ opportunities and benefits of IEEE membership during the onset of a career.
                     <h2>Partners</h2>
                     <hr class="small">
                     <div class="row">
-                        <style>.service-item{display:block; overflow:hidden; padding:2%;}.service-item img{ width:98%;}</style>
+                        <style>.service-item{display:block; overflow:hidden;}.service-item img{ width:100%;}</style>
 
                         <div class="col-md-3">
                             <div class="service-item">
